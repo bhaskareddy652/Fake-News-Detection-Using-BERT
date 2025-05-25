@@ -1,1 +1,1 @@
-# Fake_News_Detection_Using_BERT
+# Fake News Detection Using BERT(Bidirectional Encoder Representationas from Transformers)
