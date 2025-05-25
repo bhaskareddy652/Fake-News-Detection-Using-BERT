@@ -4,9 +4,9 @@ This project demonstrates a fake news detection system built with BERT fine-tuni
 
 # Project Overview
 
--Fine-tuned a BERT model for classifying news articles as Real or Fake.
--Achieved high accuracy and F1 scores on test data.
--Developed a Flask web app and REST API for interactive predictions.
+- Fine-tuned a BERT model for classifying news articles as Real or Fake.
+- Achieved high accuracy and F1 scores on test data.
+- Developed a Flask web app and REST API for interactive predictions.
 
 # Dataset
 
