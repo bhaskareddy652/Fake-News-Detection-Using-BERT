@@ -32,4 +32,14 @@ The dataset used in this project includes:
 - Validation Accuracy	                  ~99.9%
 - Test Accuracy	                        ~99.9%
 - Precision, Recall, F1-Score	           ~1.0
-
+# 📈 Future Improvements
+- Try alternative models: DistilBERT,Long Short-Term Memory (LSTM), Convolutional Neural Network (CNN), Bidirectional LSTM, ResNet, COBRA, Gated Recurrent Unit (GRU)
+- Improve dataset balance and coverage (different regions, topics).
+- Add streamlit or Gradio interface for better UX.
+- Integrate LIME/SHAP for model explainability.
+# 🧠 Skills Practiced
+- NLP with Transformers
+- Deep Learning (fine-tuning pre-trained models)
+- Model evaluation and deployment
+- Flask API & Web Development
+- Debugging real-world ML issues
