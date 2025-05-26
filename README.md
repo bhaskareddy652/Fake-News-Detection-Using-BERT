@@ -43,3 +43,12 @@ The dataset used in this project includes:
 - Model evaluation and deployment
 - Flask API & Web Development
 - Debugging real-world ML issues
+
+# Model Weights
+
+The BERT model weights (`best_model_state.bin`) used in this project are too large to host on GitHub.  
+You can download them from [Google Drive](https://drive.google.com/file/d/1g_cVNpfZ6uEOU4MAwyhvg7gIV53XRy_4/view?usp=drive_link).
+
+To use the model:
+1. Download `best_model_state.bin` from the link above.
+2. Place it in the `model/` directory of the project.
